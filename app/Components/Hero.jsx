@@ -10,7 +10,7 @@ const poppins = Poppins({
 
 export default function Hero() {
   return (
-    <section className='bg-[#E6FFE1] w-screen h-screen relative min-h-screen'>
+    <section className='bg-[#E6FFE1] w-screen relative min-h-screen'>
       <NavBar></NavBar>
 
     <div className='pad mt-8 xl:mt-2 2xl:mt-16'>
