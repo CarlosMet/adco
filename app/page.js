@@ -3,7 +3,7 @@ import Hero from './Components/Hero'
 
 export default function Home() {
   return (
-    <main>
+    <main className='w-screen'>
       <Hero />
       
     </main>
