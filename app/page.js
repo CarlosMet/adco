@@ -3,7 +3,7 @@ import Hero from './Components/Hero'
 
 export default function Home() {
   return (
-    <main className='w-screen'>
+    <main className='w-screen overflow-x-hidden'>
       <Hero />
       
     </main>
